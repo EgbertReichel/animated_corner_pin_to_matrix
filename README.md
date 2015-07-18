@@ -13,4 +13,4 @@ import CornerPin_to_Matrix
 
 m=nuke.menu('Nuke')
 n=m.addMenu('Scripts')
-n.addCommand('CornerPinToMatrix','CornerPin_to_Matrix.CP2MTX()',icon="CornerPin.png")
+n.addCommand('CornerPinToMatrix','animated_cornerpin_to_matrix.animatedCP2MTX()',icon="CornerPin.png")
