@@ -1,4 +1,4 @@
-# animated_cornerpin_to_matrix
+# animated cornerpin to matrix
 get animations from a cornerpin to a 4x4 matrix 
 
 Additionally add those lines to your menu.py and your init.py files accordingly:
